@@ -1,0 +1,25 @@
+# All inputs, outputs and caches stay local.
+inputs/
+outputs/
+data/
+work/
+private/
+*.csv
+*.tsv
+*.rds
+*.RData
+*.Rhistory
+*.docx
+*.pdf
+*.png
+*.svg
+*.tif
+*.tiff
+*.zip
+*.log
+*.env
+.env*
+__pycache__/
+*.py[cod]
+.Rproj.user/
+.DS_Store

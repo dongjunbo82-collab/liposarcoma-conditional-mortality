@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the archived code release when reusing this software."
+title: "Statistical analysis code for conditional mortality in liposarcoma"
+type: software
+authors:
+  - name: "Liposarcoma analysis contributors"
+version: 1.0.0
+date-released: 2026-10-17
+license: MIT
+keywords:
+  - conditional cumulative incidence
+  - competing risks
+  - liposarcoma
+  - population-based prognosis

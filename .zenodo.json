@@ -1,0 +1,19 @@
+{
+  "title": "Statistical analysis code for conditional mortality in liposarcoma",
+  "upload_type": "software",
+  "description": "Statistical source code for exploratory population-based conditional mortality analyses, supporting competing-risk models and sensitivity checks. Code only; no individual records, datasets, manuscripts, author contact details or generated results are included.",
+  "creators": [
+    {
+      "name": "Liposarcoma analysis contributors"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "conditional mortality",
+    "competing risks",
+    "liposarcoma",
+    "statistical analysis"
+  ]
+}
