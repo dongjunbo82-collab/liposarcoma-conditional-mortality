@@ -98,3 +98,9 @@ Source code is released under the MIT License. Data providers retain all rights
 and restrictions over their own data; the software license does not cover them.
 Use `CITATION.cff` for a code citation. A DOI will be added only after the release
 has actually been archived and its DOI resolves.
+
+## Archived release
+
+Version 1.0.0 is archived at Zenodo: https://doi.org/10.5281/zenodo.23436970.
+
+Citation: Liposarcoma analysis contributors. (2026). Statistical analysis code for conditional mortality in liposarcoma (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23436970
